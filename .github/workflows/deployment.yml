@@ -1,4 +1,4 @@
-name: Deploy keyboard-input-vue3
+name: Deploy vite-vuejs3-tailwindcss
 
 on: [push]
 
